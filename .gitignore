@@ -20,5 +20,5 @@ lib/
 lib64
 share/
 etc/
-data/
+*data/
 *.ipynb_checkpoints/
